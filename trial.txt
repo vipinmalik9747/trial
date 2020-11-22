@@ -1,1 +1,2 @@
-this itory is for c programs file
+this repository is for c programs file
+it will contians all topics of c language
